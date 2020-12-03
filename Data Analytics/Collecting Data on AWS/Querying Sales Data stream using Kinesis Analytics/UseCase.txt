@@ -1,0 +1,7 @@
+1. We will have creating data stream and put records using BOTO3 SDK API.
+2. Once the stream is created and records are put using python script, We will create an analytics application and connect to the source stream.
+3. We will execute few queries to get the top sold product within a window of 10sec.
+4. Once the Demo is completed, ensure to terminate python script while loop as well delete the AWS data stream,analytics application from
+aws console.
+
+Note: This is not a free tier demo. 
