@@ -1,0 +1,3 @@
+1. Ingest Streaming data from web api endpoint to kinesis data stream using a python script SDK.
+2. Set up Kinesis data analytics application as Kinesis Stream as source and execute sql analytic queries on live stream feed.
+3. Dump the result sets and output records of queries to S3 as Destination in CSV format from the json input.
